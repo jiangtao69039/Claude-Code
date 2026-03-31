@@ -16,6 +16,7 @@
   },
   "scripts": {
     "dev": "bun run ./src/dev-entry.ts",
+    "dev:buddy": "bun --feature=BUDDY run ./src/entrypoints/cli.tsx",
     "start": "bun run ./src/dev-entry.ts",
     "version": "bun run ./src/dev-entry.ts --version"
   },
