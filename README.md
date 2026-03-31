@@ -13,6 +13,8 @@ bun run dev:buddy      # 启动 CLI
   - /buddy pet
   - /buddy mute
   - /buddy unmute
+  - /buddy reset
+  - /buddy reroll
 
 ```  
 
