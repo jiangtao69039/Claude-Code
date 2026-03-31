@@ -1,3 +1,22 @@
+## 快速开始-带宠物功能
+
+```bash
+bun install       # 安装依赖（需要 Bun ≥ 1.3.5、Node.js ≥ 24）
+bun run dev:buddy      # 启动 CLI
+```
+# 宠物功能
+```bash
+目前可用的 /buddy 子命令有：
+
+  - /buddy hatch
+  - /buddy card
+  - /buddy pet
+  - /buddy mute
+  - /buddy unmute
+
+```  
+
+
 # Claude Code 源码还原
 
 > 从 `@anthropic-ai/claude-code` npm 包的 source map 中还原的完整 TypeScript 源码，**可本地运行**
@@ -11,13 +30,7 @@
 
 ---
 
-## 快速开始
 
-```bash
-bun install       # 安装依赖（需要 Bun ≥ 1.3.5、Node.js ≥ 24）
-bun run dev       # 启动 CLI
-bun run version   # 验证版本
-```
 
 ---
 
